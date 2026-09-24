@@ -142,7 +142,7 @@ const Bot = ({ className = "w-5 h-5" }) => (
 );
 
 // ============================================================================
-// DADOS BASE DA LA SERENÍSIMA (BRAGANÇA PAULISTA)
+// DADOS BASE DA LA SERENISSIMA (BRAGANÇA PAULISTA)
 // ============================================================================
 
 // 1. As 6 Linhas Oficiais de Envase
@@ -242,7 +242,7 @@ export default function App() {
             </div>
             <div>
               <div className="flex items-center gap-2">
-                <h1 className="font-black text-lg tracking-wider leading-none">LA SERENÍSIMA</h1>
+                <h1 className="font-black text-lg tracking-wider leading-none">LA SERENISSIMA</h1>
                 <span className="bg-[#cc0000] text-white text-[10px] px-2 py-0.5 rounded-full font-bold uppercase tracking-widest shadow-sm">Industrial</span>
               </div>
               <span className="text-[11px] text-emerald-100 font-medium tracking-wide">Gestão de Envase & OEE Dinâmico</span>
@@ -350,7 +350,7 @@ function AuthView({ setUser, showToast }) {
           <div className="bg-[#128148]/10 text-[#128148] w-20 h-20 rounded-2xl flex items-center justify-center mx-auto mb-4 border border-[#128148]/20 shadow-inner">
             <Factory className="w-10 h-10" />
           </div>
-          <h1 className="text-2xl font-black text-slate-800 tracking-tight">LA SERENÍSIMA</h1>
+          <h1 className="text-2xl font-black text-slate-800 tracking-tight">LA SERENISSIMA</h1>
           <p className="text-[11px] font-black text-[#cc0000] uppercase tracking-widest mt-1">Acesso Restrito - Manutenção</p>
         </div>
 
